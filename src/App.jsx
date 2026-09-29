@@ -114,17 +114,7 @@ function App() {
     Learn how rescuing surplus food can help people and reduce food waste.
   </p>
 
-  <div className="video-container">
-    <iframe
-      width="100%"
-      height="450"
-      src="https://www.youtube.com/embed/2gsL8iiztAg"
-      title="Food Waste Awareness Video"
-      frameBorder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowFullScreen
-    ></iframe>
-  </div>
+
 </section>
 
         {/* Impact Section */}
